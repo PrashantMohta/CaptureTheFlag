@@ -1,9 +1,9 @@
 ﻿using CaptureTheFlag.Events;
+using Hkmp.Game;
 using Hkmp.Math;
 using System;
 using System.Collections.Generic;
 using System.Timers;
-using Hkmp.Game;
 
 namespace CaptureTheFlag
 {

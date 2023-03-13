@@ -1,13 +1,8 @@
-﻿using HkmpPouch;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Hkmp.Game;
 using Hkmp.Math;
-using System.Globalization;
+using HkmpPouch;
+using System.Collections.Generic;
 using static CaptureTheFlag.Utilities;
-using Hkmp.Game;
 namespace CaptureTheFlag.Events
 {
     internal class TeamMarkers : PipeEvent

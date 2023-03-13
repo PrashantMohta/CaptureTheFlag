@@ -1,18 +1,14 @@
 ﻿using CaptureTheFlag.Events;
 using CaptureTheFlag.Flags;
-using Hkmp.Math;
+using Hkmp.Game;
 using Modding;
 using Satchel;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
-using Vector2 = Hkmp.Math.Vector2;
 using UObject = UnityEngine.Object;
-using Hkmp.Game;
+using Vector2 = Hkmp.Math.Vector2;
 
 namespace CaptureTheFlag
 {

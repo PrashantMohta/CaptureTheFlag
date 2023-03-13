@@ -1,13 +1,8 @@
 ﻿using CaptureTheFlag.Events;
 using Hkmp.Api.Server;
 using Hkmp.Game;
-using Hkmp.Math;
 using HkmpPouch;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CaptureTheFlag
 {
